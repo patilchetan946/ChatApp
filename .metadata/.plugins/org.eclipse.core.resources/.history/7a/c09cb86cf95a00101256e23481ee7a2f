@@ -1,0 +1,3 @@
+spring.application.name=chat-app-backend
+#Tomcat server port number 8080
+spring.data.mongodb.uri=mongodb://localhost:27017/Chatapp
